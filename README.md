@@ -1,7 +1,5 @@
 # Olá!! Tudo bom? ![][1.1]
 
----
-
 ### ![][3.1]Sobre Mim
 
 <!-- Image aligned to the right -->
