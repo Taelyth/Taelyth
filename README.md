@@ -1,9 +1,11 @@
 # Olá!! Tudo bom? ![][1.1]
 
+---
+
 ### ![][3.1]Sobre Mim
 
 <!-- Image aligned to the right -->
-<img align="right" src="assets/nezuko.gif"/>
+<img align="right" width="20%" src="assets/nezuko2.gif"/>
 
 <p> 🪲 Meu nome é Jaqueline Beneduzzi, sou Analista de Qualidade (QA), já atuei em testes relacionados a sites e-commerce e Softwares de Jogos.</p>
 <p> 🎲 Atuo na área de testes desde 2018, e com jogos desde 2012.</p>
@@ -12,15 +14,16 @@
 
 [![LinkedIn][1.2]][1] Você pode me encontrar no [LinkedIn][1]!
 
+---
+
 #### Linguagens
 
 ![](https://img.shields.io/badge/Python-inactive?style=flat&logo=python&logoColor=3776AB&color=545454)
 ![](https://img.shields.io/badge/Java-inactive?style=flat&logo=java&logoColor=007396&color=545454)
 
-<details>
-<summary><b>
-Tecnologias conhecidas
-</b></summary>
+---
+
+#### Tecnologias conhecidas
 
 ![](https://img.shields.io/badge/Selenium-Python_&_Java-inactive?style=flat&logo=selenium&logoColor=43B02A&color=1b74a0)
 ![](https://img.shields.io/badge/Appium-Python_&_Java-inactive?style=flat&color=1b74a0)
@@ -30,12 +33,9 @@ Tecnologias conhecidas
 ![](https://img.shields.io/badge/REST|assured-Java-inactive?style=flat&color=007396)
 ![](https://img.shields.io/badge/Cucumber-Java-inactive?style=flat&logo=cucumber&logoColor=23D96C&color=007396)
 
-</details>
-<p></p>
-<details>
-<summary><b>
-Ferramentas
-</b></summary>
+---
+
+#### Ferramentas
 
 ![](https://img.shields.io/badge/Selenium_IDE-inactive?style=flat&logo=selenium&logoColor=43B02A&color=545454)
 ![](https://img.shields.io/badge/Jira-inactive?style=flat&logo=jira&logoColor=0052CC&color=545454)
@@ -45,20 +45,14 @@ Ferramentas
 ![](https://img.shields.io/badge/IntelliJ-inactive?style=flat&logo=intellij-idea&logoColor=000000&color=545454)
 ![](https://img.shields.io/badge/PyCharm-inactive?style=flat&logo=pycharm&logoColor=000000&color=545454)
 
-</details>
+---
 
-<p></p>
-<details>
-<summary><b>
-Metodologias
-</b></summary>
+#### Metodologias
 
 ![](https://img.shields.io/badge/Scrum-inactive?style=flat&color=545454)
 ![](https://img.shields.io/badge/Kanban-inactive?style=flat&color=545454)
 
-
-</details>
-<p></p>
+---
 
 <div align="center">
 <img src="assets/thatsallfolks.gif"/>
