@@ -60,7 +60,9 @@ Metodologias
 </details>
 <p></p>
 
-<img align="center" src="assets/thatsallfolks.gif"/>
+<div align="center">
+<img src="assets/thatsallfolks.gif"/>
+</div>
 
 
 <!-- gifs -->
