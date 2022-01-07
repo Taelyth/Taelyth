@@ -58,8 +58,9 @@ Metodologias
 
 
 </details>
+<p></p>
 
-<img src="assets/thatsallfolks.gif"/>
+<img align="center" src="assets/thatsallfolks.gif"/>
 
 
 <!-- gifs -->
