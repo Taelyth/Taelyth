@@ -16,8 +16,8 @@
 
 #### Linguagens
 
-![](https://img.shields.io/badge/Python-lightgray?style=flat&logo=python&logoColor=3776AB&color=545454)
-![](https://img.shields.io/badge/Java-lightgray?style=flat&logo=java&logoColor=007396&color=545454)
+![](https://img.shields.io/badge/Python-lightgray?style=flat&logo=python&logoColor=3776AB&color=545454&labelColor=cecece)
+![](https://img.shields.io/badge/Java-lightgray?style=flat&logo=java&logoColor=007396&color=545454&labelColor=cecece)
 
 ---
 
@@ -35,13 +35,13 @@
 
 #### Ferramentas
 
-![](https://img.shields.io/badge/Selenium_IDE-lightgray?style=flat&logo=selenium&logoColor=43B02A&color=545454)
-![](https://img.shields.io/badge/Jira-lightgray?style=flat&logo=jira&logoColor=0052CC&color=545454)
-![](https://img.shields.io/badge/Trello-lightgray?style=flat&logo=trello&logoColor=0052CC&color=545454)
-![](https://img.shields.io/badge/GitHub-lightgray?style=flat&logo=github&logoColor=181717&color=545454)
-![](https://img.shields.io/badge/GitLab-lightgray?style=flat&logo=gitlab&logoColor=FCA121&color=545454)
-![](https://img.shields.io/badge/IntelliJ-lightgray?style=flat&logo=intellij-idea&logoColor=000000&color=545454)
-![](https://img.shields.io/badge/PyCharm-lightgray?style=flat&logo=pycharm&logoColor=000000&color=545454)
+![](https://img.shields.io/badge/Selenium_IDE-lightgray?style=flat&logo=selenium&logoColor=43B02A&color=545454&labelColor=cecece)
+![](https://img.shields.io/badge/Jira-lightgray?style=flat&logo=jira&logoColor=0052CC&color=545454&labelColor=cecece)
+![](https://img.shields.io/badge/Trello-lightgray?style=flat&logo=trello&logoColor=0052CC&color=545454&labelColor=cecece)
+![](https://img.shields.io/badge/GitHub-lightgray?style=flat&logo=github&logoColor=181717&color=545454&labelColor=cecece)
+![](https://img.shields.io/badge/GitLab-lightgray?style=flat&logo=gitlab&logoColor=FCA121&color=545454&labelColor=cecece)
+![](https://img.shields.io/badge/IntelliJ-lightgray?style=flat&logo=intellij-idea&logoColor=000000&color=545454&labelColor=cecece)
+![](https://img.shields.io/badge/PyCharm-lightgray?style=flat&logo=pycharm&logoColor=000000&color=545454&labelColor=cecece)
 
 ---
 
