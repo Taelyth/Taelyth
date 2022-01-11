@@ -59,7 +59,7 @@
 
 <!-- gifs -->
 [1.1]: assets/Fido.gif (fido hello)
-[2.1]: assets/nezuko.gif (nezuko gif)
+[2.1]: assets/nezuko2.gif (nezuko gif)
 [3.1]: assets/pidgeot-mega.webp (sprite pidgeot)
 
 <!-- ícones -->
