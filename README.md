@@ -49,6 +49,8 @@
 
 ![](https://img.shields.io/badge/Scrum-lightgray?style=flat&color=545454)
 ![](https://img.shields.io/badge/Kanban-lightgray?style=flat&color=545454)
+![](https://img.shields.io/badge/Gherkin-lightgray?style=flat&color=545454)
+![](https://img.shields.io/badge/BDD-lightgray?style=flat&color=545454)
 
 ---
 
