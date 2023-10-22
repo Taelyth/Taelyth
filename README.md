@@ -17,7 +17,7 @@
 #### Linguagens
 
 ![](https://img.shields.io/badge/Python-lightgray?style=flat&logo=python&logoColor=3776AB&color=545454&labelColor=cecece)
-![](https://img.shields.io/badge/Java-lightgray?style=flat&logo=java&logoColor=007396&color=545454&labelColor=cecece)
+![](https://img.shields.io/badge/Java-lightgray?style=flat&color=545454)
 
 ---
 
