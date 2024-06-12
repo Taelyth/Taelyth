@@ -14,6 +14,12 @@
 
 ---
 
+#### Certificação
+
+<img width="2%" src="assets/bstqb_logo.jpeg"/> [![](https://img.shields.io/badge/CTFL-lightgray?style=flat&color=545454)][2]
+
+---
+
 #### Linguagens
 
 ![](https://img.shields.io/badge/Python-lightgray?style=flat&logo=python&logoColor=3776AB&color=545454&labelColor=cecece)
@@ -66,6 +72,8 @@
 
 <!-- ícones -->
 [1.2]: assets/linkedin.png (linkedin icon)
+[1.3]: assets/bstqb_logo.jpeg (logo bstqb)
 
 <!-- links -->
 [1]: https://www.linkedin.com/in/jaqueline-beneduzzi (my linkedin)
+[2]: https://bcr.bstqb.org.br/cert?field_certificado_numero_value=+21-CTFL-11367-BR&field_certificado_nome_value= (certificado ctfl)
