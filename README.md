@@ -24,7 +24,7 @@
 
 ![](https://img.shields.io/badge/Python-lightgray?style=flat&logo=python&logoColor=3776AB&color=545454&labelColor=cecece)
 ![](https://img.shields.io/badge/Java-lightgray?style=flat&color=545454)
-![](https://img.shields.io/badge/JavaScript-lightgray?style=flat&logo=javascript&logoColor=F7DF1E&color=545454)
+![](https://img.shields.io/badge/JavaScript-lightgray?style=flat&logo=javascript&logoColor=F7DF1E&color=545454&labelColor=cecece)
 ![](https://img.shields.io/badge/MySQL-lightgray?style=flat&logo=mysql&logoColor=4479A1&color=545454&labelColor=cecece)
 
 ---
