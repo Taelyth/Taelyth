@@ -45,6 +45,7 @@
 
 #### Ferramentas
 
+![](https://img.shields.io/badge/Robot_Framework-lightgray?style=flat&logo=robotframework&logoColor=000000&color=545454&labelColor=cecece)
 ![](https://img.shields.io/badge/Selenium-lightgray?style=flat&logo=selenium&logoColor=43B02A&color=545454&labelColor=cecece)
 ![](https://img.shields.io/badge/Jira-lightgray?style=flat&logo=jira&logoColor=0052CC&color=545454&labelColor=cecece)
 ![](https://img.shields.io/badge/Trello-lightgray?style=flat&logo=trello&logoColor=0052CC&color=545454&labelColor=cecece)
