@@ -31,6 +31,7 @@
 
 #### Tecnologias conhecidas
 
+![](https://img.shields.io/badge/Robot_Framework-Python-lightgray?style=flat&logo=robotframework&logoColor=000000&color=1b74a0)
 ![](https://img.shields.io/badge/Selenium-Python_&_Java-lightgray?style=flat&logo=selenium&logoColor=43B02A&color=1b74a0)
 ![](https://img.shields.io/badge/Appium-Python_&_Java-lightgray?style=flat&color=1b74a0)
 ![](https://img.shields.io/badge/Pytest-Python-lightgray?style=flat&logo=pytest&logoColor=0A9EDC&color=1b74a0)
